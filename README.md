@@ -16,4 +16,6 @@ terraform apply –auto-approve
 
 ```
 
-https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
+AWS: all commands
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/appstream_user_stack_association
