@@ -6,14 +6,11 @@ command to run it ...
 
 ```
 terraform init 
-
 ```
 
 ```
 terraform plan
-
 terraform apply –auto-approve
-
 ```
 
 AWS: all documentation:
