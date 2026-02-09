@@ -4,7 +4,7 @@ provider "aws" {
   secret_key  = ""
 }
     
-resource "aws_instance" "my-first-aws-server"{
+resource "aws_instance" "my-first-server"{
   ami           = ""
   instance_type = ""
 
