@@ -49,7 +49,7 @@ https://registry.terraform.io/providers/hashicorp/google/latest/do
 1. Cloud Formation
 2. Azure Resource Manager
 3. Google cloud Deployment Manger
-
+```
 - Cloud Agnostic: 
 ```
 1. Terraform 
