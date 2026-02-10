@@ -35,22 +35,23 @@ https://registry.terraform.io/providers/hashicorp/google/latest/do
 ```
 
 # What is Infrastucture as Code (IaC)
-```
 - Categories of IaC tools:
+```
 1. Ad hoc scripts (shell csripts)
 2. Configuration mangement tools. (Asible, puppet, manage to the SW or configuration)
 3. Server Templating tools (Ami template)
 4. Orchestration tools (Kubernatives application deployment)
 5. Provisioning tools (Declarative vs. Imperative)
 ```
-# IaC Provisioning Tools Lanscape
+# IaC Provisioning Tools Landscape
+- Cloud Specific:
 ```
-- Cloud Specific
 1. Cloud Formation
 2. Azure Resource Manager
 3. Google cloud Deployment Manger
 
-- Cloud Agnostic 
+- Cloud Agnostic: 
+```
 1. Terraform 
 2. Pulumi
 ```
